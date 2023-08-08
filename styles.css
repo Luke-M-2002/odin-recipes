@@ -1,0 +1,28 @@
+*{
+    font-family: Verdana,Tahoma,Arial;
+    font-size: 16px;
+    background-color:lightsteelblue;}
+
+    h1{
+        font-size: 30px;
+    }
+
+    h2{ 
+        font-size: 24px;
+    }
+
+    a:link{
+        color: blue;
+    }
+
+    a:visited{
+        color: blueviolet;
+    }
+
+    a:hover{
+        color: aqua;
+    }
+
+    a:active{
+        color: black;
+    }
